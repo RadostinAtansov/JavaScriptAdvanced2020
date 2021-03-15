@@ -1,1 +1,1 @@
-# JavaScript Exams for Advanced
+# JavaScript Exams for Advanced and JS Application
